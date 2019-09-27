@@ -14,7 +14,9 @@
         <img src="<?php echo base_url('assets/img/bg1.jpeg')?>" alt="">
 
         <div class="uk-position-center uk-overlay uk-text-center">
-            
+            <div class="uk-width-1-1 uk-text-center">
+                <span><h2>STUDI KASUS 2</h2></span>
+            </div>
             <form class="" method="post" onsubmit="processData()">
 
                 <div class="uk-margin " id="fusername">
@@ -29,6 +31,10 @@
                         <span class="uk-form-icon uk-form-icon-flip" uk-icon="icon: lock" ></span>
                         <input class="uk-input" name="password" id="password" type="password" placeholder="Password...">
                     </div>
+                </div>
+                
+                <div class="uk-text-center">
+                <span>demo username : testing password : testing</span>
                 </div>
 
             </form>
