@@ -1,0 +1,31 @@
+1.  $_GET = untuk mengambil / menangkap data yang di kirim
+    $_POST = untuk mengirim data 
+2. NameSpacing 
+3. __construct untuk menginisalisasi pada class tertentu
+   __destruct
+   __get untuk penginialisasi function yang mengambil data atau variable
+   __set untuk pembuatan function yang menyimpan data
+   __isset untuk set data temporary
+   __unset untuk clear data temporary
+
+4.  global pembuatan variable atau function yang bisa di akses oleh siapapun
+    use untuk pemanggilan awal atau pemakaian suatu fungsi
+    public inisialisasi function yang di akses oleh publik class
+    protected inisialisasi function yang bisa di akses tapi tidak dapat merubah isi atau nilai didalamnya
+    private inisialisasi function yang tidak bisa di askes oleh siapapun
+    self untuk pemakan function atau variable yang di dalam class itu sendiri
+    final untuk inisialisasi variable yang nilainya tidak berubah
+
+5.  
+
+6.  
+
+7.  closure
+
+8.
+
+9.  MVC konsep PHP yang menggunakan Model View Controller
+
+10. 
+
+11. composer biasanya di gunakan untuk membantu pembuatan MVC pada framwork atau misal di gunakan untuk pembuatan system apps yang membutuhkan library2
